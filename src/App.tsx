@@ -2,8 +2,8 @@ import React from 'react';
 
 function App() { 
   return (
-   <>Teste</>
-  );
+      <>Teste</>
+    );
 }
 
 export default App;
